@@ -3,7 +3,7 @@ Gets latest series list from Turkish websites
 
 # Help
 
-`python dizi.py --help`
+`$ python dizi.py --help`
 
 ```shell
 Usage: dizi.py [options]
@@ -17,9 +17,17 @@ Options:
 
 # Example
 
-`python dizi.py -s dizibox`
+`$ python dizi.py -s dizibox`
 
 ![Screenshot](screenshot.png?raw=true "Screenshot")
+
+# Supported Sites
+
+* DiziBOX: http://www.dizibox1.com
+* Dizipub: http://dizipub.com
+* Dizist: http://www.dizist1.com
+* dizilab.: http://dizilab.net
+* Altyazılı Dizi: https://altyazilidizi.com
 
 ## Reporting Bugs
 For bug reports, questions, feature requests, or other suggestions the best way to contact me is to [create an issue][newissue] on GitHub.
